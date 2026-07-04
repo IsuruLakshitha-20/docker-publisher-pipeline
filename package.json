@@ -1,0 +1,7 @@
+{
+    "name": "docker-sandbox-app",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "echo 'Hello from inside a Docker Container published via CI/CD!'"
+    }
+}
